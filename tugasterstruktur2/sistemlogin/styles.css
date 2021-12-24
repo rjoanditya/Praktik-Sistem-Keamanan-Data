@@ -1,0 +1,10 @@
+body{
+    background-image: url("./img/bg.jpg");
+    background-size: cover;
+    background-color: aliceblue;
+}
+
+h1{
+    text-shadow: 3px 2px 1px black;
+    text-size-adjust: 25px;
+}
